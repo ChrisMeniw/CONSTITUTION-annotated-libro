@@ -1,3 +1,5 @@
+![cover](./cover.png)
+
 # Universal Constitution of AI Agents — The Meniw Protocol (Annotated Edition)
 
 Annotated edition (book format) by Chris Meniw.
